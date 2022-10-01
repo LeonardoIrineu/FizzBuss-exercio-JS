@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(124, 124, 189);
+    font: normal 15pt arial;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(49, 19, 2);
+}
+
+#escrevaONumero {
+    background-image: linear-gradient(45deg, rgb(4, 83, 97),rgb(6, 114, 6));
+    text-align: center;
+    margin: auto;
+}
+
+#click {
+    background-color: rgba(212, 178, 178, 0.925);
+    color: black;
+}
+
+#click:hover {
+    background-color: green;
+}
+
+#resultado {
+    box-shadow: 3px 3px 25px rgb(63, 1, 48);
+    background-image: linear-gradient(45deg, rgb(80, 8, 114),rgb(160, 127, 156));
+    border-radius: 50px;
+    padding: 20px;
+    width: 500px;
+    margin: auto;
+}
+
